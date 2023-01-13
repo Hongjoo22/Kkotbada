@@ -108,7 +108,7 @@
   <tr>
     <td align="center"><strong>배포</strong></td>
     <td>
-      <a href="https://k7a405.p.ssafy.io/">
+      <a href="https://flowerbada.kr/">
         👉 서비스 바로가기
       </a>
     </td>
